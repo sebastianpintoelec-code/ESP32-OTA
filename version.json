@@ -1,6 +1,6 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "firmware": "firmware.bin",
-    "date": "2026-07-01",
+    "date": "2026-07-03",
     "description": "Versión inicial"
 }
